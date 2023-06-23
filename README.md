@@ -1,7 +1,8 @@
 # VBA-Challenge
-This folder contains 2 files:
+This folder contains 3 files:
 1) The .vbs script is named  "VBA_Challenge_Nikita.vbs"
 2) Screenshots of the analysis for each year named as "Screenshots of the VBA challenge_Nikita.pptx"
+3) A .README file that contains a brief description of the steps followed
 
 For the analysis following steps were followed:
 Step 1: Find the last row of the sheet
